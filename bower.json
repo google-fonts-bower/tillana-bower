@@ -1,0 +1,17 @@
+{
+    "name": "tillana-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/tillana-bower.git"
+    },
+    "description": "Tillana font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
